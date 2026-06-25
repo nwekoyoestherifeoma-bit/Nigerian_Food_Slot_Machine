@@ -18,7 +18,7 @@ Built entirely in Google Colab as my first Python game.
 
 ## Game Features
 - Starting balance of ₦50,000
-- Bet validation — rejects invalid amounts
+- Bet validation, rejects invalid amounts
 - Random food selection every spin
 - Win/loss balance tracking
 - Play again option after each spin
