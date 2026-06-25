@@ -1,2 +1,1 @@
-# Hospital-NoShow-Predictor
-Analyzing patterns in hospital appointment no-shows using machine learning
+Nigerian_Food_Slot_Machine
