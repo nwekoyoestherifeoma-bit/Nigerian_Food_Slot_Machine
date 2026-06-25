@@ -12,7 +12,7 @@ Built entirely in Google Colab as my first Python game.
 2. Run all cells from top to bottom
 3. Enter a bet between ₦100 and ₦500
 4. Spin and match 3 Nigerian foods to win!
-5. Win 5x your bet if all 3 symbols match!
+5. Win 5x your bet if all 3 food match!
 
 ---
 
