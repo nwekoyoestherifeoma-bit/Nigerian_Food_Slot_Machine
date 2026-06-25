@@ -53,9 +53,10 @@ Built entirely in Google Colab as my first Python game.
 ---
 
 ## How To Run
-Click the button below to open in Colab and
+https://colab.research.google.com/drive/18JwQ50NSduX9lTu4Jm3Ahza9eIpjriZh?usp=sharing
+Click the button above to open in Colab and
 run all cells using Runtime → Run all
-
+press enter to play
 ---
 
 
